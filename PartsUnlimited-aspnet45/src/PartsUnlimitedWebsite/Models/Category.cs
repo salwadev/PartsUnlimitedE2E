@@ -1,8 +1,9 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
+    //
     // testCategory change. Fixes #1
     public class Category
     {
